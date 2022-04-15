@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ovi96B
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me: oviley.b16@gmail.com
 
 <!---
